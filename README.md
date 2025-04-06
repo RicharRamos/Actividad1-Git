@@ -1,49 +1,46 @@
 # Actividad 1 - Git y GitHub
 
-## Curso
-**Técnicas de Programación Orientada a Objetos - 2413 (Remoto)**  
-**Universidad Privada del Norte - UPN**
-
-## Autor
-**Richar Ramos**  
-**Correo:** n00366286@upn
+Este repositorio contiene la actividad práctica sobre el uso de Git y GitHub para la asignatura de Técnicas de Programación Orientada a Objetos.
 
 ---
 
-## Objetivo
+## Archivos incluidos
 
-Familiarizarse con los comandos básicos de Git y GitHub, mediante la creación de un repositorio local y remoto, navegación por el historial, manejo de ramas y realización de merges.
+- 'guia_git.txt': Contiene la guía paso a paso de los comandos utilizados.
+- 'actividad1.png': Evidencia visual del proyecto.
+- 'README.md': Este archivo con la descripción del proyecto.
 
 ---
 
-## Actividades realizadas
+## ¿Qué hice en esta actividad?
 
-1.Inicialización de un repositorio local ('git init')
-2.Creación de archivo guía ('guia_git.txt')
-3.Primer commit ('git add' y 'git commit')
-4.Configuración de identidad de usuario
-5.Creación y cambio de nombre de la rama principal a 'main'
-6.Enlace con repositorio remoto en GitHub
-7.Push del repositorio local a remoto ('git push')
-8.Visualización del estado con 'git status'
-9.Manejo de ramas ('git branch', 'git checkout', 'git merge')
-10.Subida de evidencia (imagen y guía)
+1. Inicialicé el repositorio con 'git init'.
+2. Configuré mis datos de usuario ('git config').
+3. Agregué los archivos ('git add.').
+4. Hice commits ('git commit -m "mensaje"').
+5. Conecté con GitHub ('git remote add origin ...').
+6. Hice push ('git push -u origin main').
 
-## Estructura del repositorio
+---
+
+## Evidencia
+
+![Evidencia](actividad1.png)
+
+---
 
 ## Enlace al repositorio
 
-lik [https://github.com/RicharRamos/Actividad1-Git](https://github.com/RicharRamos/Actividad1-Git)
+[https://github.com/RicharRamos/Actividad1-Git](https://github.com/RicharRamos/Actividad1-Git)
 
 ---
+
 ## Conclusión
 
-Esta actividad me permitió entender cómo se gestionan versiones de proyectos con Git, así como colaborar utilizando GitHub. Pude realizar commits, manejar ramas, resolver errores comunes y subir mi trabajo de forma correcta a la nube.
+Esta actividad me permitió entender cómo usar Git para gestionar versiones y subir proyectos a GitHub, así como resolver errores comunes.
 
 ---
 
 ## Licencia
 
 Este proyecto es parte de una práctica académica de la Universidad Privada del Norte.
-
-
